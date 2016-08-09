@@ -233,6 +233,8 @@ form {
 
 .list {
   color: #000;
+  text-align: left;
+  margin: 0 200px;
 }
 
 #landing-page header nav ul a.landing-page {
